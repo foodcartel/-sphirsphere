@@ -5,7 +5,7 @@ const members = {
     "Matt Abts",
     "Alex Acuna",
     "Daniel Adair",
-    "marc Adler",
+    "Marc Adler",
     "Charlie Adams",
   ],
   "guitarists": [
